@@ -2,6 +2,9 @@
 **/.terraform/*
 .terraform.lock.hcl
 
+# key for ssh
+ansible-key.pem
+
 
 # .tfstate files
 *.tfstate
